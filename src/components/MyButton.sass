@@ -1,0 +1,45 @@
+$blueLight: rgb(8, 164, 233)
+$redLight: rgb(255, 26, 20)
+$orangeLight: rgb(255, 124, 0)
+$blueDark: rgb(34, 0, 40)
+$blueDark2: rgb(34, 0, 60)
+
+%btn
+  border: 1px solid black
+  color: white
+  width: 20%
+  text-align: center
+  text-decoration: none
+  display: inline-block
+  font-size: 43px
+ 
+  height: 25%
+  
+  
+
+  &:hover  
+    cursor: pointer
+    opacity: 0.7
+
+.btn-blue
+  @extend %btn  
+  background-color: $blueLight
+
+.btn-red
+  @extend %btn  
+  background-color: $redLight
+
+.btn-orange
+    @extend %btn  
+    background-color: $orangeLight
+
+.btn-blueD
+    @extend %btn  
+    background-color: $blueDark
+
+.btn-blueD2
+    @extend %btn  
+    background-color: $blueDark2
+
+.btn-big
+  height: 50%

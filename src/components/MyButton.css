@@ -1,0 +1,40 @@
+.btn-blue, .btn-red, .btn-orange, .btn-blueD, .btn-blueD2 {
+  border: 1px solid black;
+  color: white;
+  width: 20%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 43px;
+  height: 25%;
+}
+
+.btn-blue:hover, .btn-red:hover, .btn-orange:hover, .btn-blueD:hover, .btn-blueD2:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+.btn-blue {
+  background-color: #08a4e9;
+}
+
+.btn-red {
+  background-color: #ff1a14;
+}
+
+.btn-orange {
+  background-color: #ff7c00;
+}
+
+.btn-blueD {
+  background-color: #220028;
+}
+
+.btn-blueD2 {
+  background-color: #22003c;
+}
+
+.btn-big {
+  height: 50%;
+}
+/*# sourceMappingURL=MyButton.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EACD,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,eAAe;CAKF;;AAFrB,MAAM,MAAM,MAAM,MAAM,SAAS,EAAE,KAAK;EAR5C,AAAA,IAAI,CAAC;IASG,KAAK,EAAE,IAAI;IACX,MAAM,EAAE,IAAI;GAAK",
+    "sources": [
+        "Calculator.sass"
+    ],
+    "names": [],
+    "file": "Calculator.css"
+}
